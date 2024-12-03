@@ -15,7 +15,6 @@ Welcome to the Three Faction War! In the land of Arcadia, three factions—Rock 
    - Open `war.s` in Ripes.
 
 3. **Assemble and Execute**
-   - Click on the **Assemble** button to compile the assembly code.
    - Click on the **Run** button to start the game.
 
 4. **Gameplay Instructions**
